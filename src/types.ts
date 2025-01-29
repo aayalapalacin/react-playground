@@ -5,7 +5,7 @@ export interface Step{
     codeSample: string;
 }
 
-export interface Tuorial {
+export interface Tutorial {
     category: string;
     name: string;
     steps: Step[];
